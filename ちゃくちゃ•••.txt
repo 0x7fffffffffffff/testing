@@ -16,3 +16,4 @@ e7f7787f-077b-4196-bfe0-0fa2a14f1e3b //phoebs
 dbb6aaf9-fd88-4422-95c5-08759f9f4432 //amigo do toph bondiRO
 d3466bb9-061c-4bf6-9ab0-cd1239010b5e //trinityRO JALAL
 43c02fc3-4f87-43e8-bf06-b3b41a69e6e2 //doppelganger trinityRO
+c059707c-e935-4bd9-928a-b78af5939ac3 //fat trinityRO
