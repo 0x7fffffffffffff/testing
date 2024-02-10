@@ -14,9 +14,12 @@ e7f7787f-077b-4196-bfe0-0fa2a14f1e3b //phoebs
 47181336-3fb0-40a7-9d28-04188b14e828 //rejected
 8195f556-50f1-44a3-9616-c2793af47b3a // toph
 dbb6aaf9-fd88-4422-95c5-08759f9f4432 //amigo do toph bondiRO
+
+
 d3466bb9-061c-4bf6-9ab0-cd1239010b5e //trinityRO JALAL
 43c02fc3-4f87-43e8-bf06-b3b41a69e6e2 //doppelganger trinityRO
 c059707c-e935-4bd9-928a-b78af5939ac3 //fat trinityRO
 23303e49-442a-407f-bffa-a7e3323534e2 //rosane trinityRO
 31ac2e46-31c6-4cb8-b994-cafe4a344841 /jebat trinityRO
 079f079d-44a6-4658-bd15-9c3c6f18771e //Popeye
+44bd016f-df4c-4b4f-a10d-5173572a74ca //bumbum TrinityRO
