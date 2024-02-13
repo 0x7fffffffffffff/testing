@@ -25,3 +25,4 @@ c059707c-e935-4bd9-928a-b78af5939ac3 //fat trinityRO
 44bd016f-df4c-4b4f-a10d-5173572a74ca //bumbum TrinityRO
 8714cf42-6dbd-4382-b7ef-777e2f02b569 //p.daus trinityRO
 d5a872dd-428b-4c9f-ac27-8ed042db23d3 //PakMaon TrinityRO
+2d584b05-829a-4a67-83f3-1a8e409b0f9f //Obelisk TrinityRO
