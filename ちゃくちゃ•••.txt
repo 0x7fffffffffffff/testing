@@ -30,3 +30,4 @@ d5a872dd-428b-4c9f-ac27-8ed042db23d3 //PakMaon TrinityRO
 db6a5110-d383-440d-a8bd-5da65c07cd4b //dude demolisher
 ce10606c-eb0b-4adf-bd2b-7ea09a83293d //ragbrazil xeron
 f64fdf82-1e7f-44bb-bd70-7b73e29a259c //along friend trinityRO
+577f111c-d251-4e3e-ba9a-d76c844938bc //Bevy friend trinityRO
