@@ -14,8 +14,8 @@ e5cd6e8f-6f19-43e7-807b-5201194c8a92 //vic
 e7f7787f-077b-4196-bfe0-0fa2a14f1e3b //phoebs
 47181336-3fb0-40a7-9d28-04188b14e828 //rejected
 8195f556-50f1-44a3-9616-c2793af47b3a // toph
-
-1b117a0f-7ece-4560-abb6-623a1254c2c2 //jinjin
+c7555fb9-437e-4ea8-8bd8-826f3536ed76 //jacky amigo do vic
+1b117a0f-7ece-4560-abb6-623a1254c2c2 //jinjin amigo do vic
 a6788fe9-f13c-4081-8897-2da6c507169f //dadali trinityRO
 d3466bb9-061c-4bf6-9ab0-cd1239010b5e //trinityRO JALAL
 43c02fc3-4f87-43e8-bf06-b3b41a69e6e2 //doppelganger trinityRO
