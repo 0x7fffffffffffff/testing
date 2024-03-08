@@ -38,6 +38,8 @@ bff92697-3259-4af1-a0de-19b5726735ed //sin
 df10d99e-3221-48ac-80ab-e7beeea0f6a4 //ayato amigo do vic
 3357c852-2004-4e22-9048-782c022277a6 //han amigo do vic
 
+af8bfe94-d3cd-4dcf-a586-820336a8ace2 //luthyla mongo
+
 
 
 
