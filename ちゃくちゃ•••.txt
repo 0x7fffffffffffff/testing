@@ -43,7 +43,7 @@ af8bfe94-d3cd-4dcf-a586-820336a8ace2 //luthyla mongo
 9f148669-ca8a-498c-a207-35b3c25fbf68 //2eazy
 9b21a433-203b-4e80-8ccb-250576a10181 //amigo do rafa ragbrazil
 
-
+ce0f68dc-bfa7-463f-9d8e-347ef1e7e44d //amigo do vic TrinityRO
 04ad0945-9e20-47dd-84d8-b4e163e66a70 //dako ragbrazil
 e26071ea-6ec9-4d47-a8f5-70dfa6a3e2fc //ed ragbrazil
 
