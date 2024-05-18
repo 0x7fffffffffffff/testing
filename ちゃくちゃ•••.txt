@@ -67,3 +67,4 @@ b0ff916b-1db0-4ac0-a6f7-0baf9996f1fb //trakinas
 386b57ec-c826-4733-92f4-5756d0855ebb //frt pc novo
 07ff2575-d6ea-49bc-8c87-78df2f6ab31f //a_lexis discord
 
+482d8492-5507-456b-bd96-2646be80aced //Dako Windows 11
