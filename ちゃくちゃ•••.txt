@@ -70,3 +70,4 @@ b0ff916b-1db0-4ac0-a6f7-0baf9996f1fb //trakinas
 482d8492-5507-456b-bd96-2646be80aced //Dako Windows 11
 bd181cdc-a3c8-46c9-88ac-58482b2ead6f //Pryla
 c0be3429-969a-49fb-9e69-9d2053e73538 //dasabravanel
+f4a891a1-bb14-4c05-9593-adb901ad776d //slistz
