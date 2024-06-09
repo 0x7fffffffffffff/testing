@@ -61,7 +61,7 @@ f1b4f617-c718-4201-a841-fa9793e4f172 //dispell
 09963c7c-3687-4fdd-a3bd-b8971f73241a //Kapela me deve 500$ dia 12
 a4c16124-fb41-4d5f-be46-fff12a51832b //pryla
 588cd2bb-5529-4487-99be-794cde190183 //xinisco amigo do adamantine
-07c7fc11-3e7d-4cde-b90f-fd1fdd6ce1e5 //serginho 99
+2c91390e-576e-4261-b268-8133a3566d21 //serginho loco 99
 b0ff916b-1db0-4ac0-a6f7-0baf9996f1fb //trakinas
 073f13f3-ad97-455e-9da0-cf72e0eade18 //matheus551
 386b57ec-c826-4733-92f4-5756d0855ebb //frt pc novo
@@ -80,3 +80,4 @@ bbdfa655-a103-4c4a-a527-dbf655c79709 //Park
 d43111b7-ae8a-45e8-9995-61e196a3a166 //vic new pc
 b8d421e9-0c4f-43da-bfef-12c3b0a742ce //namezera full
 af8bfe94-d3cd-4dcf-a586-820336a8ace2 //luthyla
+v
