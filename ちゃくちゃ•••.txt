@@ -5,7 +5,6 @@ acb025f0-a596-48b8-bee5-981658eb90c8 //marcustan amigo do vic
 14b32272-2716-44c1-a219-a61a3a81e743 //kapela
 d772965b-ab96-43a6-862c-f80d5cd4a947 //rafa
 b06037c3-beb4-4cc2-a38f-3757f7dd93f6 //kenpachi
-bde3b41f-d5d4-4053-881d-6fe6f7cb42a8 //ahmed
 5ebafc33-700f-4935-bc35-0df84e29eb50 //vinney
 80b2d3fa-2325-478a-94eb-c26c1ee8adfb //replause
 1e276f34-8e17-495a-83f5-210f8ad6b203 //primal kaos
@@ -82,18 +81,19 @@ b8d421e9-0c4f-43da-bfef-12c3b0a742ce //namezera full
 af8bfe94-d3cd-4dcf-a586-820336a8ace2 //luthyla
 1cd6cbe3-2c88-4812-b983-79c8e2252406 //Luckzor
 
-
-
+16e42616-3ef4-49d7-8726-351754e2b265 //furyous
+d5cbd427-e0c4-4efa-b272-6572c08335f8 //prans
+68dd0e1e-310e-4198-8d09-07490f81cf81 //gorila
+97957f68-5148-43b7-9951-32b487123cea //amigo do ed
 
 
 
 2c26c7f9-6f37-47b3-b2a3-84b6780a2286 //dock expire 24/09/2024
 9e3d28d6-77bf-4d5f-acab-24aa09be8b2f //bishop expire 25/07/2024
 5a73a5d9-8846-4b43-abee-2183d9784936 //dimihigh expire 25/08/2024
-16e42616-3ef4-49d7-8726-351754e2b265 //furyous
 837de4b6-f7ef-4396-baf8-abde7c71a3ff //preppy expire 27/07/2024
 9425dfc0-5bd0-44c1-9b76-a41c6de21388 //vills expire 27/09/2024
-d5cbd427-e0c4-4efa-b272-6572c08335f8 //prans
 774b7322-3743-48cb-96e9-6f2d4ec1d111// jaslee expire 28/07/2024
-68dd0e1e-310e-4198-8d09-07490f81cf81 //gorila
-97957f68-5148-43b7-9951-32b487123cea //amigo do ed
+7f1ad91a-79b4-4c53-b425-3d1a7a114e4b //font eexpire 28/07/2024
+bde3b41f-d5d4-4053-881d-6fe6f7cb42a8 //adamantine expire 28/09/2024
+
