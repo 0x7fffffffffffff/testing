@@ -100,4 +100,5 @@ bde3b41f-d5d4-4053-881d-6fe6f7cb42a8 //adamantine expire 28/09/2024
 2f41d30b-914b-4bc9-8706-315be66ff39e //2ez4geezy expire 29/08/2024
 adda346d-b3cc-438d-b226-5d65cccc44b7 //dnzera expire 29/06/2024
 78b644ca-fc1b-4ce3-9158-c059ad1b4211 //gargol expire 29/07/2024
+8d492149-8917-41e1-818a-5af9fac1049c //Electro Expire 29/07/2024
 
