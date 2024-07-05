@@ -80,6 +80,7 @@ d43111b7-ae8a-45e8-9995-61e196a3a166 //vic new pc
 b8d421e9-0c4f-43da-bfef-12c3b0a742ce //namezera full
 af8bfe94-d3cd-4dcf-a586-820336a8ace2 //luthyla
 1cd6cbe3-2c88-4812-b983-79c8e2252406 //Luckzor
+ce10606c-eb0b-4adf-bd2b-7ea09a83293d //amigo do raffa
 
 16e42616-3ef4-49d7-8726-351754e2b265 //furyous
 d5cbd427-e0c4-4efa-b272-6572c08335f8 //prans
