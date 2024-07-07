@@ -89,6 +89,7 @@ d5cbd427-e0c4-4efa-b272-6572c08335f8 //prans
 97957f68-5148-43b7-9951-32b487123cea //amigo do ed
 e270f523-01e5-461a-85f9-2aebf43c1dda //tirdas lifetime
 0b4f551a-fc54-4ba0-b268-d2ea1d0b0cec //vidarr lifetime
+ec6dc9a5-cbbd-4236-8c8b-e3dc1fc9f33b //collide
 
 
 2c26c7f9-6f37-47b3-b2a3-84b6780a2286 //dock expire 24/09/2024
