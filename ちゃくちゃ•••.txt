@@ -91,6 +91,7 @@ e270f523-01e5-461a-85f9-2aebf43c1dda //tirdas lifetime
 0b4f551a-fc54-4ba0-b268-d2ea1d0b0cec //vidarr lifetime
 ec6dc9a5-cbbd-4236-8c8b-e3dc1fc9f33b //collide
 6932634e-b9dc-4acd-924f-5f6804534c3b //Richmore lifetime
+24eff85d-b0e0-41a1-8882-71fdcda2fbb5 //Ventril lifetime
 
 
 2c26c7f9-6f37-47b3-b2a3-84b6780a2286 //dock expire 24/09/2024
