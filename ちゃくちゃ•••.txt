@@ -108,4 +108,5 @@ adda346d-b3cc-438d-b226-5d65cccc44b7 //dnzera expire 29/06/2024
 78b644ca-fc1b-4ce3-9158-c059ad1b4211 //gargol expire 29/07/2024
 8d492149-8917-41e1-818a-5af9fac1049c //Electro Expire 29/07/2024
 ab3935d3-2af4-4ea4-a0d7-6ea905c2c4d5 //Tmmo expire 08/08/2024
+2931355d-737d-4152-ada0-08eb1ad56aad //hayaki expire 13/01/2025
 
