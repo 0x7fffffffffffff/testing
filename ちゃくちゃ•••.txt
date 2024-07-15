@@ -112,5 +112,5 @@ ab3935d3-2af4-4ea4-a0d7-6ea905c2c4d5 //Tmmo expire 08/08/2024
 2931355d-737d-4152-ada0-08eb1ad56aad //hayaki expire 13/01/2025
 71203bf2-f0a5-4549-bfbc-2db4d800346a //dap expire 13/01/2025
 63783ca1-3aac-4892-bf6d-ba816ada037e // doms.twist expire 14/09/2024
-7700db49-d129-466c-ab54-6ac5ff815376 //anbleryes09 2 meeses amigo do domtwist expire 15/07/2024
+7700db49-d129-466c-ab54-6ac5ff815376 //anbleryes09 2 meeses amigo do domtwist expire 15/09/2024
 
