@@ -113,5 +113,5 @@ ab3935d3-2af4-4ea4-a0d7-6ea905c2c4d5 //Tmmo expire 08/08/2024
 71203bf2-f0a5-4549-bfbc-2db4d800346a //dap expire 13/01/2025
 63783ca1-3aac-4892-bf6d-ba816ada037e // doms.twist expire 14/09/2024
 7700db49-d129-466c-ab54-6ac5ff815376 //anbleryes09 2 meeses amigo do domtwist expire 15/09/2024
-S-1-5-21-3254863527-1381514198-2345539158-1001 //Kaput expire 15/08/2024
+0d9dbd3c-691b-42de-9d78-8e79360a3ab //Kaput expire 15/08/2024
 
