@@ -93,7 +93,7 @@ ec6dc9a5-cbbd-4236-8c8b-e3dc1fc9f33b //collide
 6932634e-b9dc-4acd-924f-5f6804534c3b //Richmore lifetime
 24eff85d-b0e0-41a1-8882-71fdcda2fbb5 //Ventril lifetime
 bff92697-3259-4af1-a0de-19b5726735ed //sin add
-
+f44b5a79-ddfa-4444-ae78-ac7dfa619dbb //Ched amigo do eyz
 
 2c26c7f9-6f37-47b3-b2a3-84b6780a2286 //dock expire 24/09/2024
 9e3d28d6-77bf-4d5f-acab-24aa09be8b2f //bishop expire 25/07/2024
