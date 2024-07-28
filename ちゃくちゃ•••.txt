@@ -32,6 +32,7 @@ f64fdf82-1e7f-44bb-bd70-7b73e29a259c //along friend trinityRO
 577f111c-d251-4e3e-ba9a-d76c844938bc //Bevy friend trinityRO
 18799365-481a-49a8-a5d0-ece4e6759aeb //aleshito
 e9035a12-2d90-42a4-aa99-d9f0390f86e1 //silas whatsapp PM
+3742ddce-6166-4eeb-80c2-cbc7f2a93e43 //dasabravanel
 
 df10d99e-3221-48ac-80ab-e7beeea0f6a4 //ayato amigo do vic
 3357c852-2004-4e22-9048-782c022277a6 //han amigo do vic
@@ -68,7 +69,7 @@ b0ff916b-1db0-4ac0-a6f7-0baf9996f1fb //trakinas
 336a86ec-04df-4869-a0e9-691aae691d72 //kyeh amigo do rafa
 482d8492-5507-456b-bd96-2646be80aced //Dako Windows 11
 bd181cdc-a3c8-46c9-88ac-58482b2ead6f //Pryla
-c0be3429-969a-49fb-9e69-9d2053e73538 //dasabravanel
+
 954f6b63-ae87-4158-9d84-a2f04b910b8a //DEV Juh amigo do ed
 c0e0f5c5-74a9-45b0-8abd-f4b2e8044d05 //amigo do eyz
 c61f7fe4-dd71-4589-88f5-6b8d5395b8d6 //kyeh ragbrazil
