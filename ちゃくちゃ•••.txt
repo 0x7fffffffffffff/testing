@@ -38,7 +38,7 @@ d69905a3-0122-4859-a571-432f41c2a690 //luthyla
 df10d99e-3221-48ac-80ab-e7beeea0f6a4 //ayato amigo do vic
 3357c852-2004-4e22-9048-782c022277a6 //han amigo do vic
 5d2e396d-a771-47e3-a19e-e71d5604c545 //amigo do vic bezz
-
+dfb1d191-96fb-43af-9b4b-5133a557de7d //nielder
 b680ffca-38b0-423b-9f0a-10c5d0826e27 //remmy
 d6a13b2b-cbd7-4571-befb-b5b8cc5fa4ae //Haex12
 b7b1c6de-bdff-421e-9cb1-cf68dba8589b //Eyz
