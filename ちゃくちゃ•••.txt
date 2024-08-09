@@ -87,6 +87,7 @@ af8bfe94-d3cd-4dcf-a586-820336a8ace2 //luthyla
 1cd6cbe3-2c88-4812-b983-79c8e2252406 //Luckzor
 ce10606c-eb0b-4adf-bd2b-7ea09a83293d //amigo do raffa
 b2ff5d3c-4e52-4ea0-baa8-d8f04edc8a00 //Mikailis
+9dc27375-18a6-43b8-911b-f220db3b5396 //amigo do rafa novo
 
 16e42616-3ef4-49d7-8726-351754e2b265 //furyous
 d5cbd427-e0c4-4efa-b272-6572c08335f8 //prans
@@ -130,3 +131,4 @@ da97fbc0-1e43-4fb6-a349-646e4b067bbe //Nothing Expire 23/08/2024
 88ac5425-be3a-4f34-8661-e0cd83a673b4 //gelan expire 06/09/2024
 48bc9c40-db62-4725-b6ce-293a1ed4aa58 //kriansa expire 06/09/2024
 40272f03-d5e4-4f63-b464-63bd58562778 //rek expire 08/09/2024
+
