@@ -89,6 +89,7 @@ ce10606c-eb0b-4adf-bd2b-7ea09a83293d //amigo do raffa
 b2ff5d3c-4e52-4ea0-baa8-d8f04edc8a00 //Mikailis
 9dc27375-18a6-43b8-911b-f220db3b5396 //amigo do rafa novo
 92772779-227e-4d4a-80d8-00b30688ab99 //never comp amigo do rafa
+5534fb31-5a56-464a-ae33-219bae43fb17 //uFuck
 
 16e42616-3ef4-49d7-8726-351754e2b265 //furyous
 d5cbd427-e0c4-4efa-b272-6572c08335f8 //prans
