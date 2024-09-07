@@ -29,7 +29,7 @@ d5a872dd-428b-4c9f-ac27-8ed042db23d3 //PakMaon TrinityRO
 2d584b05-829a-4a67-83f3-1a8e409b0f9f //Obelisk TrinityRO
 5f63ed80-c280-4814-b5c7-d7c47294ec34 //Naz TrinityRO
 db6a5110-d383-440d-a8bd-5da65c07cd4b //dude demolisher
-ce10606c-eb0b-4adf-bd2b-7ea09a83293d //ragbrazil xeron
+
 f64fdf82-1e7f-44bb-bd70-7b73e29a259c //along friend trinityRO
 577f111c-d251-4e3e-ba9a-d76c844938bc //Bevy friend trinityRO
 18799365-481a-49a8-a5d0-ece4e6759aeb //aleshito
@@ -46,7 +46,7 @@ d6a13b2b-cbd7-4571-befb-b5b8cc5fa4ae //Haex12
 b7b1c6de-bdff-421e-9cb1-cf68dba8589b //Eyz
 536d4a1e-e128-44f2-9354-43b5ade1cfda //titototi
 2a037823-465f-4511-b2b3-be0e7fbd859b //mark amigo do mondie
-9b21a433-203b-4e80-8ccb-250576a10181 //amigo do rafa ragbrazil
+
 2adbc32f-0187-470e-a931-81bccf43ca96 //Nicolo amigo do Eyz
 c67a55c9-4779-460b-a243-a4239c433cab //Diorama
 8912f34e-1f0d-4bee-bce3-8a88e48e9ca9 //pedrao zika
@@ -54,13 +54,13 @@ ce0f68dc-bfa7-463f-9d8e-347ef1e7e44d //amigo do vic TrinityRO
 
 e26071ea-6ec9-4d47-a8f5-70dfa6a3e2fc //ed ragbrazil
 8dbe1325-f6c2-4f70-9c81-a01f556d7d7c //ZERO
-b0ea0e64-9819-4666-9461-b98268cec8d7 //Never Compromise ragbrazil
-cd43eaff-322c-4c03-ab1d-0148952b107c //amigo do raffa ragbrazil
-dfb1d191-96fb-43af-9b4b-5133a557de7d //nielder
-a45c40f8-4260-40a2-bdb7-80779f90c201 //BangaD
-78380594-782a-466c-a5c8-5dda8ec6ee42 //vand ragbrazil
 
-653ba473-5233-4ba3-a2b9-f099828497c7 //frt ragbrazil
+
+dfb1d191-96fb-43af-9b4b-5133a557de7d //nielder
+
+
+
+
 f1b4f617-c718-4201-a841-fa9793e4f172 //dispell
 09963c7c-3687-4fdd-a3bd-b8971f73241a //Kapela me deve 500$ dia 12
 a4c16124-fb41-4d5f-be46-fff12a51832b //pryla
