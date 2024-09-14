@@ -149,3 +149,6 @@ f06db376-add7-4e22-bfc2-4d319496facc //eli expire 07/10/2024
 1881be29-b127-4b36-bda3-28c3bbd4af2b //Jepoy amigo do Eyz
 1e276f34-8e17-495a-83f5-210f8ad6b203 //Detroit
 d772965b-ab96-43a6-862c-f80d5cd4a947 //raffa ragbrazil
+
+e43e200c-5458-4c88-a542-d9985ac8762f //Eyz
+
