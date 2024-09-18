@@ -129,17 +129,15 @@ ab3935d3-2af4-4ea4-a0d7-6ea905c2c4d5 //Tmmo expire 08/08/2024
 4cdcac3a-fa75-49f0-a194-6888796ea358 //VolXxX expire 17/09/2024
 f06db376-add7-4e22-bfc2-4d319496facc //eli expire 16/08/2024
 
-d5c60117-6e2d-4627-99d0-4aabde71ffde //admin marfil expire 16/08/2024
-5726e662-3fb9-426a-ba7f-fda9c5dca83f //Dondo expire 17/09/2024
-da97fbc0-1e43-4fb6-a349-646e4b067bbe //Nothing Expire 23/08/2024
-7f1ad91a-79b4-4c53-b425-3d1a7a114e4b //font expire 30/08/2024
+
+
 21f899ad-4fee-4f18-9891-6f75e4679df5 //Paulin expire 04/10/2024
 88ac5425-be3a-4f34-8661-e0cd83a673b4 //gelan expire 06/09/2024
 48bc9c40-db62-4725-b6ce-293a1ed4aa58 //kriansa expire 06/09/2024
 40272f03-d5e4-4f63-b464-63bd58562778 //rek expire 08/09/2024
 0cd31733-2e43-4708-99c6-34c4fecdfbcc //AbreguEmanuel expire 10/09/2024
 328acccb-528c-422e-8e34-eef8dd2dca68 //Mondie Expire 17/09/2024
-828e38e8-5be3-4094-a2a1-24e901261273 //Oxito Expire 17/09/2024
+
 1f3c2d72-3abc-4790-bfbc-e37653772f75 //papakent expire 21/11/2024
 66360d01-fcf6-43f2-be9f-3d94a11669b1 //todoink amigo do bugok
 2c70754c-91d5-4dc6-a060-c46d4e9db720 //fugazzi amigo do mondie
