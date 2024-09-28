@@ -102,7 +102,6 @@ e270f523-01e5-461a-85f9-2aebf43c1dda //tirdas lifetime
 ec6dc9a5-cbbd-4236-8c8b-e3dc1fc9f33b //collide
 6932634e-b9dc-4acd-924f-5f6804534c3b //Richmore lifetime
 24eff85d-b0e0-41a1-8882-71fdcda2fbb5 //Ventril lifetime
-bff92697-3259-4af1-a0de-19b5726735ed //sin add
 f44b5a79-ddfa-4444-ae78-ac7dfa619dbb //Ched amigo do eyz
 76a30d76-fc51-473e-8117-9ef73b7b8f8a //Shawneng
 49374293-e856-4c7c-9c7c-d8c80c6dd4eb //Pop Smok amigo do mondie
@@ -114,7 +113,6 @@ f44b5a79-ddfa-4444-ae78-ac7dfa619dbb //Ched amigo do eyz
 9425dfc0-5bd0-44c1-9b76-a41c6de21388 //vills expire 27/09/2024
 774b7322-3743-48cb-96e9-6f2d4ec1d111// jaslee expire 28/07/2024
 19e1066a-27b2-4643-a190-1acfc8573055 //manaluzej amigo do mondie
-bde3b41f-d5d4-4053-881d-6fe6f7cb42a8 //adamantine expire 28/09/2024
 995c1e2c-1755-4061-9b27-25fe0cd46b2b //xtcy expire 29/07/2024
 2f41d30b-914b-4bc9-8706-315be66ff39e //2ez4geezy expire 29/08/2024
 adda346d-b3cc-438d-b226-5d65cccc44b7 //dnzera expire 29/06/2024
