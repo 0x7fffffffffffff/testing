@@ -155,7 +155,7 @@ e9c46dfb-83eb-47ef-886c-021122861a2e //omen
 f130c511-b63f-4a6c-99af-c5c409adc481 //asmodeuz blood valkrye
 b0ff916b-1db0-4ac0-a6f7-0baf9996f1fb //trakinas
 ce10606c-eb0b-4adf-bd2b-7ea09a83293d //xeron
-f38d1ea1-5610-48d5-ac2d-138246193dca //terence
+0d82273c-62b2-4e7c-9571-8c8f147d2a14 //terence
 c35d7cc3-0dd0-494d-81c0-be8eb7a6069e //Salty Crew
 faea4d53-6ae2-43d9-8547-38dbc66dd769 //amigo do gelan jillianlaia < nick name // discord
 bde3b41f-d5d4-4053-881d-6fe6f7cb42a8 //adamantine expire 05/01/2025
