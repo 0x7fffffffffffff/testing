@@ -29,7 +29,7 @@ d5a872dd-428b-4c9f-ac27-8ed042db23d3 //PakMaon TrinityRO
 2d584b05-829a-4a67-83f3-1a8e409b0f9f //Obelisk TrinityRO
 5f63ed80-c280-4814-b5c7-d7c47294ec34 //Naz TrinityRO
 db6a5110-d383-440d-a8bd-5da65c07cd4b //dude demolisher
-
+835167c3-c891-4198-a54e-1c01f6ccc892 //duende
 f64fdf82-1e7f-44bb-bd70-7b73e29a259c //along friend trinityRO
 577f111c-d251-4e3e-ba9a-d76c844938bc //Bevy friend trinityRO
 18799365-481a-49a8-a5d0-ece4e6759aeb //aleshito
