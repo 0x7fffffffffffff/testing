@@ -214,3 +214,6 @@ c85a7079-7778-437a-a251-bf5e4a3aa8f9 //life
 a36f4f06-29c6-460d-b854-4d32649e2f81 //dominic
 9d478949-a0be-47e0-94e9-28800d21c009 //Keith
 fbdc5b26-92de-47c8-900a-cedc204b0e6b //summer
+c3d18321-484f-4d40-b976-c3f5f1b19bbe //Hamshel03
+27f97ce7-e011-490e-9972-7a2e7a634216 //SoulLegacy
+9814ac0c-d193-4c71-b5c1-b27e96b9c7f6 //Spade
