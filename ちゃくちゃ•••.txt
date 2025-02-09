@@ -78,7 +78,6 @@ d38cf11c-21cd-4daf-b136-4157020dbf84 //shake
 c0e0f5c5-74a9-45b0-8abd-f4b2e8044d05 //amigo do eyz
 
 bbdfa655-a103-4c4a-a527-dbf655c79709 //Park
-16e42616-3ef4-49d7-8726-351754e2b265 //furyous
 0a88c3df-9626-4985-a68a-690bf2465077 //badernas
 12d554b9-e39f-4500-b2b9-6014cf16dcb8 //amigo do rafaa
 d43111b7-ae8a-45e8-9995-61e196a3a166 //vic new pc
@@ -93,7 +92,6 @@ b2ff5d3c-4e52-4ea0-baa8-d8f04edc8a00 //Mikailis
 9a456cf5-1d61-434c-90d8-c12ba382a54a //bugok freee
 d093a6d1-f531-4537-b817-0f11435c016f //Paaat amigo do mondie
 fe72404b-127b-47c8-8bef-178dbe8e9d25 //Paraiso amigo do mondie
-94242bc0-11c1-4fd6-86c0-619c0440865a //furyous
 d5cbd427-e0c4-4efa-b272-6572c08335f8 //prans
 68dd0e1e-310e-4198-8d09-07490f81cf81 //gorila
 97957f68-5148-43b7-9951-32b487123cea //amigo do ed
@@ -184,7 +182,6 @@ ba755848-b65c-40e7-b395-88a546866646 //Morpheus
 62df2b67-8a1d-4b7e-a126-59f0c147fb1b //ramen amigo do mondie
 529430c0-6a91-4f89-87c9-441ae590768f //alef
 bbdfa655-a103-4c4a-a527-dbf655c79709 //parkzin
-7ef8c304-c2c0-46ba-ba88-472d121e11c1 // furyous pc 3
 d6bd14df-7f2e-4b54-a825-b43e291ea81e //shesh
 548ed812-01fd-466e-b479-9a69ee9520a1 //cali
 32d48721-4956-4f87-9714-2b53049eabc1 //Johw
@@ -235,3 +232,4 @@ cbf0f88c-0b1e-43d0-b6f9-10dff9f7d2aa //dimi
 eb0f1212-78a7-455c-882d-9180ed2bc8ce //Lordzim pc2
 d5e92109-377a-4de1-9933-27bb3372f932 //Ilssomar
 82fa684b-c98b-4d64-b4cb-8efeca02f543  //Ilssomar2
+16e42616-3ef4-49d7-8726-351754e2b265 //furyous
